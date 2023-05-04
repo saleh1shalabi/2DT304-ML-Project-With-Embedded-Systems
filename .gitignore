@@ -1,0 +1,9 @@
+.env
+env
+.vscode
+vscode
+data
+.idea
+.pio
+.vscode/*
+readme_for_us.txt
